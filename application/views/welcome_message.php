@@ -50,14 +50,6 @@ code {
 <p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
 <p><br />Page rendered in {elapsed_time} seconds</p>
-<p><br />Page rendered in {elapsed_time} seconds</p>
-<p><br />Page rendered in {elapsed_time} seconds</p>
-<p><br />Page rendered in {elapsed_time} seconds</p>
-<p><br />Page rendered in {elapsed_time} seconds</p>
-<p><br />Page rendered in {elapsed_time} seconds</p>
-<p><br />Page rendered in {elapsed_time} seconds</p>
-<p><br />Page rendered in {elapsed_time} seconds</p>
-<p><br />Page rendered in {elapsed_time} seconds</p>
 
 </body>
 </html>
