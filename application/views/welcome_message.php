@@ -47,7 +47,7 @@ code {
 
 <h1>Hello Team, Let's rock this project!!!!!!!</h1>
 
-<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
+<p>The page you are looking at is frackin' being generated dynamically by CodeIgniter.</p>
 
 <p><br />Page rendered in {elapsed_time} seconds</p>
 
